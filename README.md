@@ -93,7 +93,7 @@
 #### **Option 1: One-Click Setup** 🎯
 ```bash
 # Clone the repo
-git clone <your-repo>
+git clone https://github.com/Ahmadjamil888/BITCOIN_Price_Predictor.git
 cd bitcoin-predictor
 
 # 🚀 MAGIC COMMAND - Does everything!
